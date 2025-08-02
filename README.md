@@ -49,7 +49,7 @@ A modern, responsive job listing application built with React, Vite, TailwindCSS
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/tanmay-haldar0/job-listing.git
    cd job-listing-app
    ```
 
